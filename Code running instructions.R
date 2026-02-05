@@ -11,7 +11,7 @@ library(caret)
 library(DescTools)
 library(broom)
 
-For loading in the datasets go to: https://marianaossilva.github.io/DSW2019/index.html#hero-area
-Download files acoustic_features.csv, song_pop.csv and songs.csv
+# For loading in the datasets go to: https://marianaossilva.github.io/DSW2019/index.html#hero-area
+# Download files acoustic_features.csv, song_pop.csv and songs.csv
 
-When loading the files, change the file path to your working directory.
+# When loading the files, change the file path to your working directory.
